@@ -1,0 +1,112 @@
+@media (min-width: 992px) and (max-width:1200px){
+    .forth-image{
+        border: 1px solid transparent;
+        border-image-slice: fill;
+        border-radius: 26%;
+        padding-top: 13rem;
+    }
+    .carousel-caption2 {
+        position: relative;
+        bottom: 14rem;
+        left: 30rem;
+        color: black;
+        text-align: left;
+    }
+    .footer-logos{
+        margin-left: 21rem;
+      }
+}
+@media (min-width: 768px) and (max-width:992px){
+    .carousel-caption1{
+    top: 3rem;
+    left: 33px;
+    font-size: 1rem;
+    width: 24rem;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    .orange {
+        color: #fc846b;
+        text-transform: uppercase;
+        font-size: 1rem;
+    }
+    .second-image-section{
+        margin-top: 6rem;
+    }
+    .testi-image{
+        left: 4rem;
+    }
+    .carousel-caption2 {
+        position: relative;
+        bottom: 8rem;
+        left: 16rem;
+        color: black;
+        text-align: left;
+    }
+    .footer-logos {
+        margin-left: 11rem;
+    }
+    .carousel-item p{
+        font-size: 13px;
+    }
+    .seventh-section{
+        display: none;
+    }
+    #email{
+        margin-left: 1rem;
+    }
+    .carousel-caption1 p{
+        font-size: 16px;
+    }
+}
+@media (min-width:640px) and (max-width: 768px) {
+    .footer-logos {
+        margin-left: 10rem;
+    }
+    .forth-div{
+        margin-left: 7rem;
+    }
+    .fifth-section{
+        display: none;
+    }
+    .forth-image{
+        margin-left: 3rem;
+    }
+    .orange{
+        font-size: 1rem;
+    }
+    .second-image-section{
+        margin-top: 5rem;
+    }
+    .first-section{
+        display: none;
+    }
+}
+@media (max-width: 640px) {
+    .first-section{
+        display: none;
+    }
+    .fifth-section{
+        display: none;
+    }
+    .footer-logos {
+        margin-left: 7rem;
+    }
+    .forth-div{
+        margin-left: 8rem;
+    }
+    .orange{
+        font-size: 1rem;
+    }
+    .second-image-section{
+        margin-top: 8rem;
+    }
+    .buy-now{
+        padding: 0px 26px
+    }
+}
+@media (max-width: 400px){
+    .footer-logos{
+        margin-left: 0;
+    }
+}
